@@ -18,7 +18,7 @@
 
 ## **📝 포트폴리오**
 
-<img width="100%" alt="메인 페이지" src="https://user-images.githubusercontent.com/51189962/136147406-e80d9f8a-49b9-42bc-aa3a-301fff182608.png" />
+//<img width="100%" alt="메인 페이지" src="https://user-images.githubusercontent.com/51189962/136147406-e80d9f8a-49b9-42bc-aa3a-301fff182608.png" />
 
 
 <br />
